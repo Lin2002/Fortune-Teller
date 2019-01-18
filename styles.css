@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp00PAVZ0mUz4lbPuBwQ7Rewxk-bsDyoToa1ejkbMOjoC4-8HyfQ");
+    background-repeat: no-repeat;
+    background-size:100% 1000px;
+    color:#84e1e1;
+    font-family:times;
+    text-align:center;
+    margin-top:150px;
+    }
+p{
+    font-size:36px;
+    color:#4ddbff;
+    }
+h1{
+    text-decoration:wavy underline #b380ff;
+    }
+em{
+    text-decoration:wavy underline #ff80ff;
+    }
